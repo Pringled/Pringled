@@ -10,3 +10,4 @@ My research interests include:
 Info:
 - [LinkedIn](https://www.linkedin.com/in/thomas-van-dongen/)
 - [Google Scholar](https://scholar.google.com/citations?user=2Yc0IXMAAAAJ&hl=en)
+- [Medium](https://medium.com/@thomasvandongen)
