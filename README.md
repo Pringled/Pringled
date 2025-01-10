@@ -12,6 +12,7 @@ My research interests include:
 I'm currently working on:
 - [model2vec](https://github.com/MinishLab/model2vec): a library for creating state-of-the-art static embeddings by distilling sentence transformers.
 - [vicinity](https://github.com/MinishLab/vicinity): a library for fast and lightweight nearest neighbors, with flexible indexing backends.
+- [semhash](https://github.com/MinishLab/semhash): a library for lightweight text deduplication.
 - [tokenlearn](https://github.com/MinishLab/tokenlearn): a library for pre-training static embeddings.
 
 
