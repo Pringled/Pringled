@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Thomas van Dongen. I am currently working as head of AI engineering at [Springer Nature](https://www.springernature.com/gp). I am one of the founding members of [The Minish Lab](https://github.com/MinishLab) where we develop open-source machine learning packages.
+I'm Thomas van Dongen. I am currently working as head of AI engineering at [Springer Nature](https://www.springernature.com/gp). I am one of the founding members of [Minish](https://github.com/MinishLab) where we develop open-source machine learning packages.
 
 My research interests include:
 - 🚤 **Small, fast models**: Making CPU-friendly models that can run on any device.
