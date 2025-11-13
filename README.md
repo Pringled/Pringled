@@ -7,10 +7,10 @@ I'm Thomas van Dongen. I am currently working as head of AI engineering at [Spri
 ## I'm currently working on:
 - [model2vec](https://github.com/MinishLab/model2vec): a library for creating state-of-the-art static embedding models by distilling sentence transformers.
 - [semhash](https://github.com/MinishLab/semhash): a library for lightweight text deduplication, outlier detection, and representative filtering.
+- [pyversity](https://github.com/Pringled/pyversity): a library for retrieval result diversification.
 - [vicinity](https://github.com/MinishLab/vicinity): a library for fast and lightweight nearest neighbor search, with flexible indexing backends.
 - [tokenlearn](https://github.com/MinishLab/tokenlearn): a library for pre-training static embedding models.
 - [model2vec-rs](https://github.com/MinishLab/model2vec-rs): a Rust port of Model2Vec.
-- [pyversity](https://github.com/Pringled/pyversity): a library for retrieval result diversification.
 
 ## My research interests include:
 - **Small, fast models**: I like making eco-friendly models that do not need expensive hardware.
@@ -22,4 +22,5 @@ I'm Thomas van Dongen. I am currently working as head of AI engineering at [Spri
 ## Info:
 - [LinkedIn](https://www.linkedin.com/in/thomas-van-dongen/)
 - [Google Scholar](https://scholar.google.com/citations?user=2Yc0IXMAAAAJ&hl=en)
+- [X](https://x.com/thomas_v_dongen)
 - [Medium](https://medium.com/@thomasvandongen)
