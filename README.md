@@ -11,6 +11,7 @@ I'm Thomas van Dongen. I am currently working as head of AI engineering at [Spri
 - [vicinity](https://github.com/MinishLab/vicinity): a library for fast and lightweight nearest neighbor search, with flexible indexing backends.
 - [tokenlearn](https://github.com/MinishLab/tokenlearn): a library for pre-training static embedding models.
 - [model2vec-rs](https://github.com/MinishLab/model2vec-rs): a Rust port of Model2Vec.
+- [agentcheck](https://github.com/Pringled/agentcheck): a Go CLI tool that checks what an AI agent can access before you run it.
 
 ## My research interests include:
 - **Small, fast models**: I like making eco-friendly models that do not need expensive hardware.
