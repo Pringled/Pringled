@@ -12,15 +12,15 @@ I'm Thomas van Dongen. I'm head of AI engineering at [Springer Nature](https://w
 
 ______________________________________________________________________
 
-### Open Source Projects
+  ### Open Source Projects
 
-| Project | Description | |
-|---------|-------------|---|
-| [**semble**](https://github.com/MinishLab/semble) | A code-search MCP/CLI tool for AI agents that drastically reduces token consumption | <a href="https://github.com/MinishLab/semble/stargazers"><img src="https://img.shields.io/github/stars/MinishLab/semble.svg" alt="Stars"></a> |
-| [**model2vec**](https://github.com/MinishLab/model2vec) | Distill sentence transformers into static embeddings that are orders of magnitude faster | <a href="https://github.com/MinishLab/model2vec/stargazers"><img src="https://img.shields.io/github/stars/MinishLab/model2vec.svg" alt="Stars"></a> |
-| [**semhash**](https://github.com/MinishLab/semhash) | Multimodal semantic deduplication, outlier detection, and representative filtering | <a href="https://github.com/MinishLab/semhash/stargazers"><img src="https://img.shields.io/github/stars/MinishLab/semhash.svg" alt="Stars"></a> |
-| [**pyversity**](https://github.com/Pringled/pyversity) | Diversify search & retrieval results to reduce redundancy and improve coverage | <a href="https://github.com/Pringled/pyversity/stargazers"><img src="https://img.shields.io/github/stars/Pringled/pyversity.svg" alt="Stars"></a> |
-| [**vicinity**](https://github.com/MinishLab/vicinity) | Fast, lightweight nearest neighbor search with pluggable backends | <a href="https://github.com/MinishLab/vicinity/stargazers"><img src="https://img.shields.io/github/stars/MinishLab/vicinity.svg" alt="Stars"></a> |
-| [**model2vec-rs**](https://github.com/MinishLab/model2vec-rs) | A Rust port of Model2Vec | <a href="https://github.com/MinishLab/model2vec-rs/stargazers"><img src="https://img.shields.io/github/stars/MinishLab/model2vec-rs.svg" alt="Stars"></a> |
-| [**tokenlearn**](https://github.com/MinishLab/tokenlearn) | Pre-train static embedding models | <a href="https://github.com/MinishLab/tokenlearn/stargazers"><img src="https://img.shields.io/github/stars/MinishLab/tokenlearn.svg" alt="Stars"></a> |
-| [**agentcheck**](https://github.com/Pringled/agentcheck) | A Go CLI that audits what an AI agent can access before you run it | <a href="https://github.com/Pringled/agentcheck/stargazers"><img src="https://img.shields.io/github/stars/Pringled/agentcheck.svg" alt="Stars"></a> |
+  | Project | Description |
+  |---------|-------------|
+  | [**semble**](https://github.com/MinishLab/semble) | A code-search MCP/CLI tool for AI agents that drastically reduces token consumption |
+  | [**model2vec**](https://github.com/MinishLab/model2vec) | Distill sentence transformers into static embeddings that are orders of magnitude faster |
+  | [**semhash**](https://github.com/MinishLab/semhash) | Multimodal semantic deduplication, outlier detection, and representative filtering |
+  | [**pyversity**](https://github.com/Pringled/pyversity) | Diversify search & retrieval results to reduce redundancy and improve coverage |
+  | [**vicinity**](https://github.com/MinishLab/vicinity) | Fast, lightweight nearest neighbor search with pluggable backends |
+  | [**model2vec-rs**](https://github.com/MinishLab/model2vec-rs) | A Rust port of Model2Vec |
+  | [**tokenlearn**](https://github.com/MinishLab/tokenlearn) | Pre-train static embedding models |
+  | [**agentcheck**](https://github.com/Pringled/agentcheck) | A Go CLI that audits what an AI agent can access before you run it |
