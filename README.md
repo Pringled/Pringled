@@ -6,7 +6,7 @@ I'm Thomas van Dongen. I'm head of AI engineering at [Springer Nature](https://w
 <p>
   <a href="https://www.linkedin.com/in/thomas-van-dongen/"><img src="https://img.shields.io/badge/LinkedIn-thomas--van--dongen-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://scholar.google.com/citations?user=2Yc0IXMAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Thomas%20van%20Dongen-4285F4?style=flat-square&logo=googlescholar" alt="Google Scholar"></a>
-  <a href="https://thomasvd.dev"><img src="https://img.shields.io/badge/Website-thomasvd.dev-FF5722?style=flat-square&logo=googlechrome" alt="Website"></a>
+  <a href="https://thomasvandongen.dev"><img src="https://img.shields.io/badge/Website-thomasvandongen.dev-FF5722?style=flat-square&logo=googlechrome" alt="Website"></a>
 </p>
 
 
